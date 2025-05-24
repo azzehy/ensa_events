@@ -152,8 +152,8 @@ The `ensa_events.sql` file is included to help you set up your database structur
 
 | Role  | Email                                   | Password |
 | ----- | --------------------------------------- | -------- |
-| Admin | [admin@ensa.com](mailto:admin@ensa.ma) | password123 |
-| User  | [student@ensa.com](mailto:user@ensa.ma)   | password123  |
+| Admin | [admin@ensa.ma](mailto:admin@ensa.ma) | password123 |
+| User  | [student@ensa.ma](mailto:user@ensa.ma)   | password123  |
 
 *(You can change or add accounts in the database or seeder file.)*
 
