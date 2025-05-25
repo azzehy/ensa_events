@@ -28,6 +28,9 @@ A full-stack web application for managing events at ENSA (École Nationale des S
 * View registered students per event
 * Update admin profile information
 
+## Architecture
+![Image](https://github.com/user-attachments/assets/08daa363-b1d3-4547-9c8e-780352a9b196)
+
 ## 🛠️ Tech Stack
 
 ### Backend
